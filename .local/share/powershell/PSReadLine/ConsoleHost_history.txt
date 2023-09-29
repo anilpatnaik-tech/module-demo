@@ -1,0 +1,279 @@
+az ad sp create-for-rbac -n "TurbonomicSP" --role contributor --scope /subscriptions/a777e4e2-6cca-4fc2-81c0-0b9ecd2d185c
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./terraform-ibm-sep23/
+ls -ltr
+terraform init
+terraform apply --auto-approve
+ls
+vi ./variables.tf
+vi ./terraform.tfvars
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+ls
+cd ./terraform-ibm-sep23/
+ls -ltr
+cat ./a3.web-subnet-nsg.tf
+vi terraform.tfvars
+terraform init
+terraform apply  --auto-approve
+cd ..
+ls
+mv terraform-ibm-sep23 Mytest
+ls -ltr
+cd ./Mytest/
+terraform init
+terraform plan
+cd ..
+mkdir anil-test
+cd terraform-ibm-sep23
+mv ./Mytest/ ../anil-test
+cd ../anil-test/
+terraform init
+ls -ltr
+cd ./Mytest/
+terraform init
+terraform plan
+vi ./a3.web-subnet-nsg.tf
+terraform plan
+cd ..
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+ls -ltr
+ls
+cd ./terraform-ibm-sep23/
+vi ./a3.web-subnet-nsg.tf
+terraform init
+terraform plan
+terraform apply --auto-approve
+vi terraform.tfvars
+vi var.tf
+ls
+vi ./test.tfvars
+vi ./variables.tf
+vi ./resource.tf
+terraform apply --auto-approve
+ls
+clear
+mkdir vm-demo
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./vm-demo/
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./terraform-ibm-sep23/
+clear
+ls
+vi ./b2.web-linux-vm-varaibles.tf
+:q!
+clear
+ls
+vi ./a2.virtual-network.tf
+vi terraform-ibm-sep23/
+vi ./terraform.tfvars
+vi ./variables.tf
+vi ./resource.tf
+terraform init
+clear
+terraform apply --auto-approve
+cd ..
+mkdir test
+cd test
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+ls
+cd ./terraform-ibm-sep23/
+ls
+vi ./resource.tf
+terraform init
+terraform plan
+terraform apply --auto-approve
+vi ./terraform.tf
+vi terraform.tfvars
+terraform apply --auto-approve
+vi terraform.tfvars
+terraform apply --auto-approve
+ls
+cd test
+ls
+cd ./terraform-ibm-sep23/
+terraform init
+terraform destory 
+terraform destroy
+cd ..
+ls
+rm -rf terraform-ibm-sep23/
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./terraform-ibm-sep23/
+terraform init
+terraform apply --auto-approve
+terraform destroy
+ls
+vi ./resource.tf
+vi terraform.tfvars
+vi ./variables.tf
+terraform init
+terraform apply --auto-approve
+pwd
+ls
+ls -lart
+cd ./ssh-key/
+ls -ltr
+pwd
+ls
+cd ./anil-test/
+ls
+cd ./terraform-ibm-sep23/
+ls
+ls -lart
+cd ../..
+ls
+cd test
+cd ./terraform-ibm-sep23/
+ls
+ls -ltr
+cd ./ssh-key/
+ls -ltr
+pwd
+cd ../..
+cd test
+cd ./terraform-ibm-sep23/
+ls
+terraform destroy 
+cd ..
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./terraform-ibm-sep23/
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+cd ./terraform-ibm-sep23/
+ls -ltr
+terraform init
+terraform apply --auto-approve
+vi ./resource.tf
+terraform apply --auto-approve
+ls
+cd tets
+cd /test
+cd/test
+cd /test
+ls
+cd test
+cd ./terraform-ibm-sep23/
+ls
+ls -ltr
+cd ../..
+cd ./terraform-ibm-sep23/
+cd terr
+ls
+cd ../test
+cd ./terraform-ibm-sep23/
+ls
+ls -ltr
+cd ./terraform-ibm-sep23/
+ls -ltr
+terraform destory --auto-approve
+terraform destroy --auto-approve
+cd ..
+clear
+cd ..
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+ls
+mkdir remorte
+cd ./remorte/
+git clone https://github.com/gopal1409/terraform-ibm-sep23.git
+ls
+clear
+ls -ltr
+cd ./terraform-ibm-sep23/
+ls -ltr
+ls -lart
+clear
+vi ./provider.tf
+terraform init
+vi ./provider.tf
+terraform init
+terraform apply --auto-approve
+clear
+vi ./resource.tf
+terraform apply --auto-approve
+vi ./resource.tf
+:q!
+clear
+vi ./resource.tf
+terraform apply --auto-approve
+clear
+terraform destory 
+terraform destroy
+terraform destroy --auto-approve
+rm .git
+ls
+cd ./terraform-ibm-sep23/
+rm -rf .git
+git init
+git status
+git add .
+git commit -m "test"
+git config --global user.email "myemail.gmail.com"
+git config --global user.name "Anil"
+git commit -m "test"
+git log
+vi ./provider.tf
+cd ..
+ls
+cd test
+cd ./terraform-ibm-sep23/
+vi ./provider.tf
+cd ../..
+cd ./terraform-ibm-sep23/
+ls
+git remote add origin git@ssh.dev.azure.com:v3/patnaikanilkumar2007/CICD-REPO/CICD-REPO
+git push -u origin --all
+ssh-keygen -t
+ssh-keygen
+cd ../..
+cd .ssh
+cd anil
+cd .ssh
+ls 
+cat id_rsa.pub
+cd ..
+cd ./terraform-ibm-sep23/
+git remote add origin git@ssh.dev.azure.com:v3/patnaikanilkumar2007/CICD-REPO/CICD-REPO
+git push -u origin --all
+cd ..
+ls
+cd ./remorte/
+ls
+cd ./terraform-ibm-sep23/
+vi ./provider.tf
+:q!
+cat ./provider.tf
+cd ../..
+cd ./terraform-ibm-sep23/
+git pull 
+git push -u origin --all
+cat ./provider.tf
+az ad sp create-for-rbac -n "anilsp" --role contributor --scope /subscriptions/a777e4e2-6cca-4fc2-81c0-0b9ecd2d185c
+cd ..
+cd test
+ls
+cd ./terraform-ibm-sep23/
+ls -ltr
+cd ./terraform-ibm-sep23/
+ls -ltr
+git remote add origin git@ssh.dev.azure.com:v3/patnaikanilkumar2007/anil-ibm/anil-ibm
+git push -u origin --all
+cd test
+cd ./terraform-ibm-sep23/
+vi ./provider.tf
+ls
+cd ./terraform-ibm-sep23/
+vi ./provider.tf
+cd ../..
+ls
+cd ..
+cd ./terraform-ibm-sep23/
+ls
+vi ./provider.tf
+git pull 
+git push -u origin --all
+cd ./terraform-ibm-sep23/
+git clone https://github.com/gopal1409/terraform-module-vnet-amdocs
+rm -rf .git
+git add .
+git commit -m "terraform module vnet"
+git init 
+git add .
